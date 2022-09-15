@@ -15,5 +15,7 @@ In the video, Jeff explains what a tech stack is, and then moves on to talk abou
 > "MERN! I choose you!" ~ Zaeem
 
 He goes into details on why he is choosing a technology for each part of his stack (front-end, api, back-end ... ). He also goes into details like choosing the technology for the web server and containerizing. 
+### Comments 
+> "Interesting..." ~ Majid
 
 Great vieo overall, like most on his channel - informative and straight to the point. 
